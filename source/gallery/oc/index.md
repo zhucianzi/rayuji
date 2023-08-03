@@ -23,7 +23,7 @@ date: 2023-08-02 16:33:19
 ![](/images/oc/澪希头像.jpg)
 ![](/images/oc/不小心进入液压机的澪希.png)
 ![](/images/oc/浴袍安静思考澪希.png)
-![](/images/oc/我只可能救一个.jpg)
+![](/images/oc/我只可能救一个.png)
 ![](/images/oc/女仆自设简稿.jpg)
 ![](/images/oc/台阶啤酒美少女.jpg)
 {% endgallery %}
