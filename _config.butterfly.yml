@@ -744,7 +744,7 @@ font:
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
 blog_title_font:
-  font_link: /page/fonts/fonts.css
+  font_link: /styles/fonts.css
   font-family: "汉仪中圆简"
 
 # The setting of divider icon (水平分隔線圖標設置)
@@ -782,9 +782,9 @@ preloader:
   # source
   # 1. fullpage-loading
   # 2. pace (progress bar)
-  source: 3
+  source: 1
   # pace theme (see https://codebyzach.github.io/pace/)
-  pace_css_url: /page/preload/style.css
+  pace_css_url: 
 
 # wordcount (字數統計)
 # see https://butterfly.js.org/posts/ceeb73f/#字數統計
