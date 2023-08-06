@@ -26,4 +26,5 @@ date: 2023-08-02 16:33:19
 ![](/images/oc/我只可能救一个.png)
 ![](/images/oc/女仆自设简稿.jpg)
 ![](/images/oc/台阶啤酒美少女.jpg)
+![](/images/oc/小巷里喝酒的澪希-亮.png)
 {% endgallery %}
