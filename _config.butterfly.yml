@@ -163,9 +163,11 @@ toc:
 post_copyright:
   enable: true
   decode: false
+  content: '本文及本网站的所有文章、图片，须经过作者本人同意方能转载。'
   author_href:
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  
 
 # Sponsor/reward
 reward:
@@ -613,9 +615,9 @@ site_verification:
 # Theme color for customize
 # Notice: color value must in double quotes like "#000" or may cause error!
 
-# theme_color:
-#   enable: true
-#   main: "#49B1F5"
+theme_color:
+  enable: true
+  main: "#beb4b3"
 #   paginator: "#00c4b6"
 #   button_hover: "#FF7242"
 #   text_selection: "#00c4b6"
