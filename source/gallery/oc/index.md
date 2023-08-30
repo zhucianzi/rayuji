@@ -27,4 +27,6 @@ date: 2023-08-02 16:33:19
 ![](/images/oc/女仆自设简稿.jpg)
 ![](/images/oc/台阶啤酒美少女.jpg)
 ![](/images/oc/小巷里喝酒的澪希-亮.png)
+![](/images/oc/地雷澪希表情包-发育中.png)
+![](/images/oc/地雷澪希表情包-发育OK.png)
 {% endgallery %}
