@@ -32,4 +32,6 @@ date: 2023-08-02 16:33:19
 ![](/images/oc/地雷系神诗-照片卡.png)
 ![](/images/oc/地雷系神诗-照片卡-滤镜.png)
 ![](/images/oc/我家CP相处模式问卷.png)
+![](/images/oc/随手堆堆袜裸足澪希.png)
+![](/images/oc/l2d澪希初稿.jpg)
 {% endgallery %}
